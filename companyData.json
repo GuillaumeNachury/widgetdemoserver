@@ -1,0 +1,16 @@
+[
+    
+    {"type":"video", "srcThumb":"https://picsum.photos/250/250/?image=892", "src":"", "caption":"speciem carpentorum ingentes"},
+    {"type":"image", "srcThumb":"https://picsum.photos/250/250/?image=1005", "caption":"Matthew Wiebe"},
+    {"type":"image", "srcThumb":"https://picsum.photos/250/250/?image=1016"},
+    {"type":"image", "srcThumb":"https://picsum.photos/250/250/?image=1015"},
+    {"type":"quote", "txt":"Persistence is very important. You should not give up unless you are forced to give up."},
+    {"type":"image", "srcThumb":"https://picsum.photos/250/250/?image=1018", "caption":"Andrew Ridley"},
+    {"type":"video", "srcThumb":"https://picsum.photos/250/250/?image=785", "src":"", "caption":"nos benevolentiae pariter aequaliterque"},
+    {"type":"quote", "txt":"I think it is possible for ordinary people to choose to be extraordinary."},
+    {"type":"image", "srcThumb":"https://picsum.photos/250/250/?image=1019", "caption":"Patrick Fore"},
+    {"type":"image", "srcThumb":"https://picsum.photos/250/250/?image=1026", "caption":"Dmitrii Vaccinium"},
+    {"type":"video", "srcThumb":"https://picsum.photos/250/250/?image=737", "src":"", "caption":"tanti fiat ab amicis"},
+    {"type":"quote", "txt":"It's OK to have your eggs in one basket as long as you control what happens to that basket."}
+    
+]

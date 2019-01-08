@@ -1,0 +1,12 @@
+{
+  "name": "widgetserver",
+  "version": "0.0.1",
+  "description": "Simple HTTP server for the widget demo",
+  "main": "server.js",
+  "author": "Guillaume Nachury",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
